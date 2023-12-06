@@ -1,7 +1,4 @@
-/*
- * creator/date: Group-05/Dec.04.2023
- * course name/ID: Embedded Systems/CO3054
- */
+
 /* WiFi station Example
  */
 #include <string.h>
